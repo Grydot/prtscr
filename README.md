@@ -1,2 +1,8 @@
 # prtscr
-Simple Print Screen Script using grim and slurp
+Simple Print Screen Script
+
+
+Dependancies
+- Any Wayland Compositor
+- grim
+- slurp
